@@ -1,0 +1,21 @@
+1-Write a program to Print individual numbers from 1 to 100 with two method
+
+
+2-Write a program function to divide two numbers 
+and conditional statement to ensure that the number being divided 
+by is not equal to zero.
+
+
+3-(Science: calculating energy) Write a program that calculates the energy needed
+to heat water from an initial temperature to a final temperature. Your program
+should prompt the user to enter the amount of water in kilograms and the initial
+and final temperatures of the water. The formula to compute the energy is
+Q = M * (finalTemperature – initialTemperature) * 4184
+where M is the weight of water in kilograms, temperatures are in degrees Celsius,
+and energy Q is measured in joules.
+
+
+4-(Game: heads or tails) Write a program that lets the user guess whether the flip of
+a coin results in heads or tails. The program randomly generates an integer 0 or 1,
+which represents head or tail. The program prompts the user to enter a guess and
+reports whether the guess is correct or incorrect.
